@@ -1,0 +1,9 @@
+collector.config.json
+runtime/
+library/
+__pycache__/
+*.pyc
+.env
+cookies*
+*.mp4
+*.partial

@@ -1,0 +1,9 @@
+{
+  "base_token": "",
+  "tasks_table_id": "",
+  "assets_table_id": "",
+  "attachment_field_id": "",
+  "browser_id": "",
+  "media_root": "./library",
+  "lark_cli": "lark-cli"
+}
